@@ -104,12 +104,4 @@ void payment(char method, double total)
     {
        std::cout << "Card Payment: $" << total << std::endl;
     }
-}
-	
-	    
-		    
-		    
-		    
-		
-	    
-   
+}		    
